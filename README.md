@@ -1,6 +1,6 @@
 # Entity-Recognition
 
-This repo helps to extract all the entities in the text(around 30 entities)
+This repo helps to extract all the entities in the text(identify 28 entities now)
 
 # Requirements
 
