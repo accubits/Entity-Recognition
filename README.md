@@ -1,4 +1,4 @@
-# Entity-Recognition
+# NLP Based Real Time Entity-Recognition
 
 This repo helps to extract all the entities in the text(identify 28 entities now)
 
